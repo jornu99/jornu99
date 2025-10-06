@@ -53,7 +53,7 @@
 ### 🟡 Pac-Man Commits
 
 <p align="center">
-  <img src="https://github.com/jornu99/jornu99/blob/output/github-contribution-grid-snake.svg" alt="Pac-Man animation" />
+  <img src="https://github.com/jornu99/jornu99/blob/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
 </p>
 
 ---
@@ -61,12 +61,4 @@
 <p align="center">
   <sub>“El hombre que se ilumina no lucha con los demás, sino con su propio corazón.”</sub><br>
   <sup>– Musashi, *Vagabond*</sup>
-</p>
-
-
----
-
-<p align="center">
-  <sub>“El mundo no es tan simple como para dividirlo en buenos y malos.”</sub><br>
-  <sup>– Guts, *Berserk*</sup>
 </p>
