@@ -1,4 +1,4 @@
-<!-- Perfil de GitHub de jornu -->
+<!-- Perfil de GitHub de jornu99 -->
 
 <h1 align="center">👋 Hey, soy Jaime (jornu)</h1>
 
@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jornu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jornu99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornu99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -53,14 +53,14 @@
 ### 🟡 Pac-Man Commits
 
 <p align="center">
-  <img src="https://github.com/jornu/jornu/blob/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
+  <img src="https://github.com/jornu99/jornu99/blob/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>“El mundo no es tan simple como para dividirlo en buenos y malos.”</sub><br>
-  <sup>– Guts, *Berserk*</sup>
+  <sub>“El hombre que se ilumina no lucha con los demás, sino con su propio corazón.”</sub><br>
+  <sup>– Musashi, *Vagabond*</sup>
 </p>
 
 
