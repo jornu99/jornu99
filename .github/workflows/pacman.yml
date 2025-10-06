@@ -1,18 +1,24 @@
 name: generate pacman animation
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"  # se ejecuta una vez al día
+  schedule:
+    - cron: "0 0 * * *"  # una vez al día
   workflow_dispatch:      # permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/pacman@master
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man animation
+        uses: yoshi389111/github-contribution-grid-snake@pacman
         with:
           github_user_name: jornu99
-          svg_out_path: dist/github-contribution-grid-pacman.svg
+          color_snake: "#F9E14B" # color amarillo de Pac-Man
+          color_dots: "#333333"  # puntos oscuros
+          color_ghost: "#00FFFF" # fantasmas azulados
 
       - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v3
