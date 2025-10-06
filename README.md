@@ -50,9 +50,19 @@
 
 ---
 
+### 🟡 Pac-Man Commits
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/jornu/jornu/blob/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
 </p>
+
+---
+
+<p align="center">
+  <sub>“El mundo no es tan simple como para dividirlo en buenos y malos.”</sub><br>
+  <sup>– Guts, *Berserk*</sup>
+</p>
+
 
 ---
 
