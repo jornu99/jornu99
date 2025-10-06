@@ -1,0 +1,23 @@
+name: generate pacman animation
+
+on:
+  schedule: 
+    - cron: "0 0 * * *"  # se ejecuta una vez al día
+  workflow_dispatch:      # permite ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/pacman@master
+        with:
+          github_user_name: jornu
+          svg_out_path: dist/github-contribution-grid-pacman.svg
+
+      - name: Push SVG
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
