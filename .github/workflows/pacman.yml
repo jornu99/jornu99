@@ -2,8 +2,8 @@ name: generate pacman animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecutar una vez al día
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"  # ejecuta una vez al día
+  workflow_dispatch:      # permite ejecutar manualmente
 
 jobs:
   build:
@@ -16,14 +16,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: jornu99
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          palette: github
-          color_snake: "#F9E14B"
-          color_dots: "#333333"
-          color_ghost: "#00FFFF"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist  # Carpeta local donde se generarán SVG y GIF
 
-      - name: Push SVG and GIF
+      - name: Push SVG/GIF to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

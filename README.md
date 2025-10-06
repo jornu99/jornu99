@@ -53,7 +53,7 @@
 ### 🟡 Pac-Man Commits
 
 <p align="center">
-  <img src="https://github.com/jornu99/jornu99/blob/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation" />
+  <img src="https://github.com/jornu99/jornu99/blob/output/github-contribution-grid-snake.svg" alt="Pac-Man animation" />
 </p>
 
 ---
