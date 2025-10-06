@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/pacman@master
         with:
-          github_user_name: jornu
+          github_user_name: jornu99
           svg_out_path: dist/github-contribution-grid-pacman.svg
 
       - name: Push SVG
