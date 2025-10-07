@@ -66,6 +66,6 @@
 ---
 
 <p align="center">
-  <em>“Un ran poder, conlleva una gran responsabilidad.”</em><br>
+  <em>“Un gran poder, conlleva una gran responsabilidad.”</em><br>
   <sub>– Tío Ben, *Spiderman*</sub>
 </p>
