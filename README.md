@@ -59,6 +59,13 @@
 ---
 
 <p align="center">
-  <sub>“El hombre que se ilumina no lucha con los demás, sino con su propio corazón.”</sub><br>
+  <em>“El hombre que se ilumina no lucha con los demás, sino con su propio corazón.”</em><br>
   <sup>– Musashi, *Vagabond*</sup>
+</p>
+
+---
+
+<p align="center">
+  <em>“Un ran poder, conlleva una gran responsabilidad.”</em><br>
+  <sub>– Tío Ben, *Spiderman*</sub>
 </p>
