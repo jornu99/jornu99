@@ -1,6 +1,6 @@
 <!-- Perfil de GitHub de jornu99 -->
 
-<h1 align="center">👋 Hey, soy Jaime (jornu)</h1>
+<h1 align="center">👋 Hey, soy Jaime (jornu99)</h1>
 
 <p align="center">
   <em>“No tengo enemigos. Nadie tiene enemigos.”</em><br>
